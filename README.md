@@ -1,4 +1,3 @@
-# vagrant
+# vagrant cookbook
 
-TODO: Enter the cookbook description here.
-
+Cookbook to manage my local vagrant machines

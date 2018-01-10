@@ -1,2 +1,4 @@
-# vagrant-cookbook
-Local Vagrant cookbook for my vagrants
+# vagrant
+
+TODO: Enter the cookbook description here.
+
